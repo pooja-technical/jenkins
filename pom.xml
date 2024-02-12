@@ -10,7 +10,7 @@
     <groupId>org.codehaus.mojo</groupId>
   <artifactId>mojo-parent</artifactId>
   <version>79-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>war</packaging>
 
  <name>Vaadin Addressbook example</name>
 
