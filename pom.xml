@@ -2,7 +2,7 @@
 
 <modelVersion>4.0.0</modelVersion>
 
-<groupId>org.codehaus.mojo<</groupId>
+<groupId>org.codehaus.mojo</groupId>
  <artifactId>mojo-parent</artifactId>
   <packaging>war</packaging>
   <version>79-SNAPSHOT</version>
@@ -39,7 +39,7 @@
   <artifactId>mojo-parent</artifactId>
   <version>79-SNAPSHOT</version>
   <packaging>war</packaging>
-    </dependency>
-  </dependencies> -->
+    </dependency> -->
+  </dependencies>
 
 </project>
