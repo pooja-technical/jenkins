@@ -2,7 +2,7 @@
 <modelVersion>4.0.0</modelVersion> 
   
 <groupId>org.codehaus.mojo</groupId>
- <artifactId>mojo-parent</artifactId>
+ <artifactId>AddressBook</artifactId>
   <packaging>war</packaging>
   <version>1.1-SNAPSHOT</version>
  <name>Vaadin Addressbook example</name>
@@ -22,6 +22,11 @@
                 <failOnMissingWebXml>false</failOnMissingWebXml>
             </configuration>
         </plugin>
+     <plugin>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-war-plugin</artifactId>
+    <version>3.3.1</version>
+</plugin>
     </plugins>
      </build>
        <dependencies>
